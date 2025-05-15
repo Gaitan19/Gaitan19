@@ -5,41 +5,25 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenleyjos619@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gaitan19)
 
-Hi there! 👋 I'm **Kenley Gaitan**, a passionate **Web & Backend Developer** with expertise in **.NET Core, Next.js, and SQL databases**. I love building efficient, scalable solutions and tackling complex problems with clean code. Currently pursuing a degree in **Computer Engineering** at the National University of Engineering.  
+Hi there! 👋 I'm **Kenley Gaitan**, a passionate **Web & Backend Developer** with expertise in **.NET Core, Next.js, and SQL databases**. I enjoy solving real-world problems with clean, scalable code. I'm currently pursuing a **Computer Engineering** degree at the National University of Engineering.  
 
-🔹 **"First, solve the problem. Then, write the code."** – John Johnson  
+🔹 _"First, solve the problem. Then, write the code." – John Johnson_
 
 ---
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Tech Stack  
 
-### **Frontend Development**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### **Backend Development**  
-![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### **Databases**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Tools & DevOps**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+**Frontend:** Next.js, Vue.js, TypeScript, Tailwind CSS, Sass  
+**Backend:** .NET Core, C#, Entity Framework  
+**Databases:** SQL Server, MySQL  
+**Tools:** Git, Postman, Jira  
 
 ---
 
 ## 🧭 Let's Connect!
 
-- 💼 I’m open to **internships, junior roles, and freelance projects**.
-- 🌍 Fluent in **Spanish** and comfortable working in **English-speaking environments**.
-- 🧠 Constantly learning about **architecture, testing**, and **clean code practices**.
+- 💼 Open to **internships, junior roles, and freelance projects**  
+- 🌍 Native **Spanish** speaker, comfortable in **English-speaking environments**  
+- 📚 Always learning about **clean code, testing, and software architecture**
 
-> ⭐ **Thanks for visiting my profile! Don’t hesitate to check out my repositories or reach out.**  
+> ⭐ **Thanks for visiting! Feel free to explore my repositories or reach out.**
