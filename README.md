@@ -36,14 +36,6 @@ Hi there! 👋 I'm **Kenley Gaitan**, a passionate **Web & Backend Developer** w
 
 ---
 
-## 🔥 GitHub Stats  
-
-![Kenley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaitan19&show_icons=true&theme=radical&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaitan19&layout=compact&theme=radical&hide_border=true)
-
-
-
 ## 🧭 Let's Connect!
 
 - 💼 I’m open to **internships, junior roles, and freelance projects**.
