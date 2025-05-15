@@ -4,16 +4,6 @@ Hi there! 👋 I'm **Kenley Gaitan**, a passionate **Web & Backend Developer** w
 
 🔹 _"First, solve the problem. Then, write the code." – John Johnson_
 
----
-
-## 🛠️ Tech Stack  
-
-**Frontend:** Next.js, Vue.js, TypeScript, Tailwind CSS, Sass  
-**Backend:** .NET Core, C#, Entity Framework  
-**Databases:** SQL Server, MySQL  
-**Tools:** Git, Postman, Jira  
-
----
 
 ## 🧭 Let's Connect!
 
