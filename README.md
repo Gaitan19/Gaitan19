@@ -32,35 +32,7 @@ Hi there! 👋 I'm **Kenley Gaitan**, a passionate **Web & Backend Developer** w
 ### **Tools & DevOps**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 💼 Professional Experience  
-
-### **Web & Backend Developer** @ [Smart Business Solutions (SMBS)](https://smbs.com.ni) *(June 2023 - Present)*  
-✔ Developed **landing pages** using **Next.js, SCSS, Bootstrap, and Tailwind CSS**.  
-✔ Built **RESTful APIs** with **ASP.NET, LINQ, SQL Server, and JWT**.  
-✔ Designed an **inventory solution** that reduced processing time by **40%**.  
-✔ Worked in **Agile teams** using **Jira** for task management.  
-
-### **University Projects**  
-✔ **Merchandise Manager** – A C# application for tracking hardware store inventory with **SQL Server** integration.  
-✔ Technologies: **.NET, C#, SQL Server, Visual Studio 2022**.  
-
----
-
-## 📚 Education & Skills  
-
-🎓 **Bachelor’s in Computer Engineering**  
-📍 *National University of Engineering (2020-2024)*  
-
-🌍 **Languages**:  
-- **English (B1)** – Nicaraguan North American Cultural Center (Level 12)  
-
-🧠 **Soft Skills**:  
-✅ Teamwork | ✅ Self-management | ✅ Adaptability  
-✅ Problem-solving | ✅ Autodidact  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
 
 ---
 
@@ -70,16 +42,5 @@ Hi there! 👋 I'm **Kenley Gaitan**, a passionate **Web & Backend Developer** w
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaitan19&layout=compact&theme=radical&hide_border=true)  
 
----
-
-## 📫 Let’s Connect!  
-
-📧 **Email**: [kenleyjos619@gmail.com](mailto:kenleyjos619@gmail.com)  
-💼 **Portfolio**: [https://kenley-gaitan-portfolio.netlify.app/](https://kenley-gaitan-portfolio.netlify.app/)  
-🔗 **LinkedIn**: [Kenley Gaitan Evanks](www.linkedin.com/in/kenley-gaitan-evanks-0a2739363)  
-
-**"The best way to predict the future is to invent it."** – Alan Kay  
-
----  
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories.** ⭐
