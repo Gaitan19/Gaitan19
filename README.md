@@ -38,9 +38,13 @@ Hi there! 👋 I'm **Kenley Gaitan**, a passionate **Web & Backend Developer** w
 
 ## 🔥 GitHub Stats  
 
-![Kenley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaitan19&show_icons=true&theme=radical&hide_border=true)  
+###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaitan19&layout=compact&theme=radical&hide_border=true)  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 
 
